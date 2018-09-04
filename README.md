@@ -1,6 +1,6 @@
 # mirror
 
-A new Flutter project.
+Accessing camera using flutter.
 
 ## Getting Started
 
