@@ -1,6 +1,6 @@
 # mirror
 
-Accessing camera using flutter.
+Accessing camera using flutter+dart.
 
 ## Getting Started
 
